@@ -1,0 +1,17 @@
+.user__des {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: flex-start;
+    flex: 1;
+}
+.user__des p{
+    font-weight: 500;
+    border: solid 1px #d3d3d3;
+    display: flex;
+    padding: 10px;
+    width: 100%;
+    margin: 10px;
+    color: #D14D72;
+}
+

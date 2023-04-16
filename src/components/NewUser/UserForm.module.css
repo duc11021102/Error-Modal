@@ -1,0 +1,36 @@
+.new-user__controls {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    padding: 10px;
+}
+.new-user__controls h1 {
+    color: #D14D72;
+    text-align: center;
+    margin: 10px 10px 0px 10px;
+}
+
+
+.new-user__control label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: #D14D72;
+}
+
+.new-user__control input {
+    background-color: #FEF2F4;
+    font: inherit;
+    padding: 0.3rem;
+    border-radius: 1px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 98%;
+    color: #D14D72;
+}
+
+.new-user__action {
+    text-align: left;
+}
